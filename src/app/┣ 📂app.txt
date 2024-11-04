@@ -1,0 +1,29 @@
+┣ 📂app
+┃ ┣ 📂auth
+┃ ┃ ┣ 📂login
+┃ ┃ ┃ ┗ 📜page.tsx
+┃ ┃ ┗ 📂registro
+┃ ┃   ┗ 📜page.tsx
+┃ ┣ 📂cursos
+┃ ┃ ┗ 📜layout.tsx
+┃ ┣ 📜layout.tsx
+┃ ┗ 📜page.tsx
+┣ 📂components
+┃ ┣ 📂courses
+┃ ┃ ┣ 📜course-card.tsx
+┃ ┃ ┗ 📜lesson-content.tsx
+┃ ┣ 📂layout
+┃ ┃ ┣ 📜footer.tsx
+┃ ┃ ┗ 📜header.tsx
+┃ ┗ 📂ui
+┃   ┣ 📜button.tsx
+┃   ┣ 📜card.tsx
+┃   ┗ 📜dialog.tsx
+┣ 📂config
+┃ ┗ 📜site.ts
+┣ 📂lib
+┃ ┗ 📜utils.ts
+┣ 📂styles
+┗ 📂types
+  ┣ 📜course.ts
+  ┗ 📜user.ts
