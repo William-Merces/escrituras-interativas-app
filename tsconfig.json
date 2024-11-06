@@ -8,10 +8,7 @@
     "noEmit": true,
     "esModuleInterop": true,
     "module": "esnext",
-<<<<<<< HEAD
-=======
     "baseUrl": ".",
->>>>>>> feature/landing-page
     "moduleResolution": "bundler",
     "resolveJsonModule": true,
     "isolatedModules": true,
@@ -23,11 +20,7 @@
       }
     ],
     "paths": {
-<<<<<<< HEAD
-      "@/*": ["./src/*"]
-=======
       "@/*": ["./*"]
->>>>>>> feature/landing-page
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "next.config.js"],
