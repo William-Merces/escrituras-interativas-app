@@ -1,3 +1,5 @@
+'use client';
+
 import { Card, CardHeader, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Clock, Lock, CheckCircle, BookOpen, Video, PenTool, ScrollText } from "lucide-react";
